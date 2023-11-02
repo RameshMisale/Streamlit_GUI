@@ -9,4 +9,4 @@ joblib
 streamlit
 scikit-learn
 requests
-pickle
+
